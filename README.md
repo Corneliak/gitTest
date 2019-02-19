@@ -1,1 +1,2 @@
 # gitTest
+var name "Cornelia"
